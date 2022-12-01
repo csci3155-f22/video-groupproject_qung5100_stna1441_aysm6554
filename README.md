@@ -3,11 +3,13 @@
 
 See [instructions.md](instructions.md) for submission instructions.
 
-# TODO: Replace this with Your Project Title
+Understanding A Parser (Lab 6 Review)
 
 ## Description
+In short, we want to create a deeper understanding of a parser and how it works. In Lab 6, we've written a parser, but here we want to break it down in order to understand its functionality. A parser is one of the basic foundational blocks of a programming language. It helps us break down code in smaller parts for a different language to understand. This communication allows for programming languages like java, c++, python, etc., to be understood and compiled.
 
-TOD: Replace this with at least a few paragraphs describing your project.
+Firstly, we must understand the regular expressions that we are given or have defined. These "symbols" create a base on how our language is interpereted. Next, we have to understand the expressions and how they are transformed into what they are supposed to do. We will dissect the code and explain the how and why.
+
 ## Repository Organization
 
 TODO: Replace this with a description of the organization of your repository.
