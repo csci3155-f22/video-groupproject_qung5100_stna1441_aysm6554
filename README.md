@@ -13,5 +13,5 @@ In short, we want to create a deeper understanding of a short circuiting and how
 TODO: Update the following links and remove this line.
 
 - YouTube: [Video Link](https://youtu.be/16AiV68KL0I).
-- Script: [script.pdf](script.pdf).
+- Script: [Script.pdf](Script.pdf).
 - Recording: Recording File was too large to upload to github, video link will work.
