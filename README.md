@@ -3,24 +3,15 @@
 
 See [instructions.md](instructions.md) for submission instructions.
 
-# TODO: Replace this with Your Project Title
+Teaching Short Circuiting (Lab 3 and 4 Review)
 
 ## Description
-
-TOD: Replace this with at least a few paragraphs describing your project.
-## Repository Organization
-
-TODO: Replace this with a description of the organization of your repository.
-
-## Building and Testing Instructions
-
-TODO: Replace with building and testing instructions. Please minimize the number of dependencies and as simple and platform-independent as possible. Consider, for example, using [Docker](https://www.docker.com/).
+In short, we want to create a deeper understanding of a short circuiting and how it works. In Lab 3 and 4, we've written short circuting into our interpreters, but here we want to break it down in order to understand its functionality. Short circuiting is a very usefull tool in doing very large computations because it can save uneccesary computation time and reasources. The basic Idea is that if you are doing a larger computation and after evaluating something in the computation you know the result, instead of wasting CPU cycles and time finishing the computation you just stop and return the result you already know.
 
 ## Presentation
 
 TODO: Update the following links and remove this line.
 
-- YouTube: https://youtu.be/TODO.
-- Script: [script.md](script.md) or [script.pdf](script.pdf).
-- Recording: [recording.mp4](recording.mp4).
-- Slides (if you use them in your recording): [slides.pdf](slides.pdf) and slide sources (e.g., [slides.pptx](slides.pptx) or [slides.key](slides.key)).
+- YouTube: [Video Link](https://youtu.be/16AiV68KL0I).
+- Script: [Script.pdf](Script.pdf).
+- Recording: Recording File was too large to upload to github, video link will work.
